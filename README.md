@@ -20,3 +20,7 @@ For the same reason, a Caesar cipher is often incorporated only in parts of othe
                                  2.Use of only a short key in the entire process
                                  3.One of the best methods to use if the system cannot use any complicated coding techniques
                                  4.Requires few computing resources
+
+#Symmetric Encryption:
+
+Symmetric encryption is a type of encryption where only one key (a secret key) is used to both encrypt and decrypt electronic information. The entities communicating via symmetric encryption must exchange the key so that it can be used in the decryption process. This encryption method differs from asymmetric encryption where a pair of keys, one public and one private, is used to encrypt and decrypt messages.
