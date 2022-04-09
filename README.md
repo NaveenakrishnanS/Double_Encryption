@@ -1,5 +1,5 @@
 # Double_Encryption
-double layer encryption using python
+double layer encryption using python.
 I just used Caesar cipher and a symmetric encryption using a public key.
 
 This system has two layers:
@@ -16,7 +16,7 @@ For the same reason, a Caesar cipher is often incorporated only in parts of othe
 
 #Advantages of using a Caesar cipher include:
 
-One of the easiest methods to use in cryptography and can provide minimum security to the information
-Use of only a short key in the entire process
-One of the best methods to use if the system cannot use any complicated coding techniques
-Requires few computing resources
+                                 1.One of the easiest methods to use in cryptography and can provide minimum security to the information
+                                 2.Use of only a short key in the entire process
+                                 3.One of the best methods to use if the system cannot use any complicated coding techniques
+                                 4.Requires few computing resources
