@@ -2,7 +2,7 @@
 double layer encryption using python.
 I just used Caesar cipher and a symmetric encryption using a public key.
 
-This system has two layers:
+This system has two layers which include:
            1.caesar cipher
            2. Symmetric encryption
 
